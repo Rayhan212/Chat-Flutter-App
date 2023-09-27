@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "942578179118",
+    "project_id": "food-ordering-eaffc",
+    "storage_bucket": "food-ordering-eaffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942578179118:android:5da18dc41510148c10d3bf",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942578179118-t3jig1da82c9roh223f4i42vs75ru7i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFlPt_h_OMEwM684-p00p29vG8OWO3ig8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942578179118-t3jig1da82c9roh223f4i42vs75ru7i2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942578179118-1ptrjjttheitjic5jbm0jrs0s5mqprau.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "RPL-A.Food-Fix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
